@@ -13,6 +13,7 @@ I WANT to be able to track my withdrawals and deposits with or without a data/in
 SO THAT my account balance is accurate when I am traveling 
 
 # Screenshot
+![Screen Shot 2021-04-24 at 10 06 21 AM](https://user-images.githubusercontent.com/74511935/115963406-c1737480-a4e4-11eb-8d7a-ef201647bb88.png)
 
 # Credits
 This app was created by Meaghan Campbell
