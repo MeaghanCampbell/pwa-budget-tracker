@@ -1,11 +1,10 @@
-const CACHE_NAME = 'my-site-cache-v1';
-const DATA_CACHE_NAME = 'data-cache-v1';
+const CACHE_NAME = 'budget-tracker-cache-v1';
+const DATA_CACHE_NAME = 'budget-cache-v1';
 const FILES_TO_CACHE = [
     "./index.html",
     "./js/idb.js",
     "./js/index.js",
     "./css/styles.css",
-    "./models/transaction.js",
     "./icons/icon-72x72.png",
     "./icons/icon-96x96.png",
     "./icons/icon-128x128.png",
